@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /agendar.html
+
+Sitemap: https://www.dellazariquadros.com.br/sitemap.xml
